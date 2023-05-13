@@ -1,0 +1,15 @@
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\microsoft.go.csproj.AssemblyReference.cache
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\microsoft.go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\microsoft.go.AssemblyInfoInputs.cache
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\microsoft.go.AssemblyInfo.cs
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\microsoft.go.csproj.CoreCompileInputs.cache
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\microsoft.go.exe
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\microsoft.go.deps.json
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\microsoft.go.runtimeconfig.json
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\microsoft.go.dll
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\microsoft.go.pdb
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\microsoft.go.dll
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\refint\microsoft.go.dll
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\microsoft.go.pdb
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\microsoft.go.genruntimeconfig.cache
+C:\Users\Karina\desktop\coursework\microsoft.go\obj\Debug\net6.0\ref\microsoft.go.dll

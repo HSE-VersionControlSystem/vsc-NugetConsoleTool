@@ -1,0 +1,5 @@
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\publish\microsoft.go.exe
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\publish\microsoft.go.dll
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\publish\microsoft.go.deps.json
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\publish\microsoft.go.runtimeconfig.json
+C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\publish\microsoft.go.pdb

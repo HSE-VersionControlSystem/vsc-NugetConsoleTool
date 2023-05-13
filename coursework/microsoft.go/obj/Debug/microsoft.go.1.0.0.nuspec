@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>microsoft.go</id>
+    <version>1.0.0</version>
+    <authors>microsoft.go</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\Karina\desktop\coursework\microsoft.go\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\publish\microsoft.go.dll" target="tools\net6.0\any\microsoft.go.dll" />
+    <file src="C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\publish\microsoft.go.deps.json" target="tools\net6.0\any\microsoft.go.deps.json" />
+    <file src="C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\publish\microsoft.go.runtimeconfig.json" target="tools\net6.0\any\microsoft.go.runtimeconfig.json" />
+    <file src="C:\Users\Karina\desktop\coursework\microsoft.go\bin\Debug\net6.0\publish\microsoft.go.pdb" target="tools\net6.0\any\microsoft.go.pdb" />
+  </files>
+</package>

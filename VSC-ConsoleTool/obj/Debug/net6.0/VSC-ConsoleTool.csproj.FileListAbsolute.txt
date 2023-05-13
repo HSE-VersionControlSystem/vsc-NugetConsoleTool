@@ -1,0 +1,15 @@
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\bin\Debug\net6.0\VSC-ConsoleTool.exe
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\bin\Debug\net6.0\VSC-ConsoleTool.deps.json
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\bin\Debug\net6.0\VSC-ConsoleTool.runtimeconfig.json
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\bin\Debug\net6.0\VSC-ConsoleTool.dll
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\bin\Debug\net6.0\VSC-ConsoleTool.pdb
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\VSC-ConsoleTool.csproj.AssemblyReference.cache
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\VSC-ConsoleTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\VSC-ConsoleTool.AssemblyInfoInputs.cache
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\VSC-ConsoleTool.AssemblyInfo.cs
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\VSC-ConsoleTool.csproj.CoreCompileInputs.cache
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\VSC-ConsoleTool.dll
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\refint\VSC-ConsoleTool.dll
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\VSC-ConsoleTool.pdb
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\VSC-ConsoleTool.genruntimeconfig.cache
+C:\Users\Karina\RiderProjects\VSC-ConsoleTool\VSC-ConsoleTool\obj\Debug\net6.0\ref\VSC-ConsoleTool.dll
